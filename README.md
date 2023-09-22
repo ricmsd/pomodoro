@@ -30,4 +30,4 @@ Running `npm run make` instead of `npm run start` will generate an installer (.e
     npm install
     npm run make
 
-The installer is located in the `podomoro` folder `out/make/... /pomodoro-X.X.X Setup.exe` (where `X.X.X` is the version).
+The installer is located in the `podomoro` folder `out/make/.../pomodoro-X.X.X Setup.exe` (where `X.X.X` is the version).
